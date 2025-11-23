@@ -6,13 +6,18 @@ const SpecialWishes = ({ isIOS }) => {
   const [showHeart, setShowHeart] = useState(false);
 
   const wishes = `
-Happy 23rd, My Favorite Person💗
-Semoga hal-hal yang pernah membuatmu runtuh berubah menjadi alasan terbesarmu untuk tumbuh.
-Semoga dunia selalu menjagamu, ke mana pun langkahmu pergi.
-Semoga hari-harimu dipenuhi cinta yang tak pernah mengenal batas.
-Dan semoga semua yang kamu usahakan
-pelan-pelan menjadi nyata, satu-persatu.
-I'm proud of you, always✨
+Sayangku, hari ini adalah momen yang paling indah karena hari ini kamu lahir ke dunia. Aku ingin berdoa agar kamu selalu dalam lindungan Tuhan 🤲, diberi kesehatan, kekuatan, dan kebahagiaan yang tiada akhir 💫.
+
+Aku tahu hidup tidak selalu mudah, tapi aku ingin kamu tahu bahwa kamu tidak sendiri. Aku akan selalu mendukungmu, menyemangati kamu 🌻, dan menjadi pundakmu saat kamu lelah 🤍.
+
+Semoga setiap langkahmu penuh keberkahan, dan setiap impianmu satu per satu menjadi kenyataan ✨. Kamu punya hati yang tulus dan senyum yang menenangkan 😊. Dunia butuh lebih banyak orang sepertimu.
+
+Aku ingin kamu tahu bahwa aku percaya padamu sepenuhnya 💖. Kamu kuat, kamu hebat, dan kamu pantas mendapatkan yang terbaik 🌹. Jangan pernah ragukan dirimu sendiri, karena kamu adalah cahaya dalam hidup banyak orang, termasuk hidupku 💞.
+
+Jika suatu hari kamu merasa ragu atau takut, ingatlah doaku ini: semoga kamu selalu dikelilingi orang-orang baik, rezeki yang cukup, dan cinta yang tulus dari semua arah 💕, Termasuk dariku.
+
+Aku cinta kamu, dan akan selalu mencintaimu 💌. Selamat ulang tahun ke 16 sayang 💖
+
   `;
 
   return (
@@ -82,7 +87,7 @@ I'm proud of you, always✨
               >
                 <div className="text-[12rem] select-none text-center">❤️</div>
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-3xl font-bold drop-shadow-lg">
-                  Rezal  💖
+                  Syiffah 💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
                   Hanya kamu di hatiku, sayang 🥹

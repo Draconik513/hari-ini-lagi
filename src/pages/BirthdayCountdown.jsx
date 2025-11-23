@@ -62,7 +62,7 @@ const BirthdayCountdown = ({ isIOS }) => {
         className="text-center max-w-2xl"
       >
         <h1 className="text-4xl md:text-5xl font-bold text-pink-600 mb-8">
-          The Birthday of <span className="text-purple-600">Rezal</span>
+          The Birthday of <span className="text-purple-600">Syiffah</span>
         </h1>
 
         <div className="mb-8">
@@ -108,7 +108,7 @@ const BirthdayCountdown = ({ isIOS }) => {
 
         <div className="bg-white p-6 rounded-xl shadow-lg mb-8 border border-pink-100">
           <h3 className="text-xl font-semibold text-purple-600 mb-2">
-            📅 22 November 2002
+            📅  24 November 2025
           </h3>
           <p className="text-pink-600">
             Hari dimana aku berterima kasih pada semesta karena sudah mengirimkan kamu kedunia🥹

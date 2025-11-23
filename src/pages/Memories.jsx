@@ -34,71 +34,38 @@ const Memories = ({ isIOS }) => {
           className="bg-white bg-opacity-90 backdrop-blur-sm p-6 rounded-xl shadow-lg mb-8 border border-pink-100"
         >
           <h2 className="text-2xl font-semibold text-rose-600 mb-4">
-            Permintaan maafku di hari ulang tahunmu
+            Permintaan Maafku di Hari Ulang Tahunmu
           </h2>
 
           <div className="text-left text-pink-800 space-y-4 leading-relaxed">
+            <p>
+              💌 <strong>Maaf ya, Sayang...</strong>
+            </p>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 0.6 }}
             >
-              Maafin ya kalau selama ini gue sering marah-marah dan nuduh lu
-              cingkuhh, eitsss tapi marah tanda sayang loh dan cemburu tanda
-              cinta, enak aja punya gue bagi dua mending gue kasih aja
-              sekalian😤
+              Maaf kalau selama ini aku pernah cuek 😞, terlalu sibuk 😔, atau
+              kurang peka sama perasaanmu 😢. Maaf kalau kadang aku bikin kamu
+              kecewa, salah paham, atau merasa sendiri 😓. Aku gak pernah
+              berniat nyakitin kamu 🥺. Semua itu karena aku manusia biasa yang
+              masih belajar mencintaimu dengan lebih baik 🤍.
             </motion.p>
-
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.2 }}
             >
-              Omongan gue juga kadang pedes ya kek sambel tapi kan sambel gitu
-              walaupun pedas bikin nagih😂
+              Terima kasih sudah sabar, sudah tetap di sini 🫶. Aku akan terus
+              belajar jadi lebih baik lagi... untuk kamu 💗
             </motion.p>
-
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.8 }}
             >
-              Huhu pasti cape banget ya ngadepin gue yang tiba² drama🥹
-            </motion.p>
-
-            <motion.p
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 1, delay: 2.4 }}
-            >
-              Lu sihh ngeselin bgt, gue tuh cuma KANGEN ini aja ngetik sambil
-              nahan kangen. Kata gue cabut dulu napa peletnya😤
-            </motion.p>
-
-            <motion.p
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 1, delay: 3 }}
-            >
-              Tau ga? Gue itu ibarat mie dan Lo bumbunya. Tanpa Lo hidup gue
-              hambar😂
-            </motion.p>
-
-            <motion.p
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 1, delay: 3.6 }}
-            >
-              Senyumlah bang cape adek dari tadi gombal😂
-            </motion.p>
-
-            <motion.p
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 1, delay: 4.2 }}
-            >
-              Terimakasih ya selalu ada buat gue dan jangan pernah bosan sama
-              gue zal🫶 Lopyou sekebon pulu-pulu❤️💖💝💗🩷❤️
+              🙏🏻 Maaf ya, dan makasih karena kamu tetap percaya sama aku.
             </motion.p>
           </div>
         </motion.div>
